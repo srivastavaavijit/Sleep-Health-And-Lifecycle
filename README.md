@@ -1,1 +1,3 @@
 In this project, we delve into the intricate relationship between sleep patterns and lifestyle habits of different individuals working in different sectors. Sleep is a fundamental aspect of human health and well-being, and understanding the factors influencing it can offer insights into improving overall quality of life. We aim to analyze a comprehensive dataset that encompasses various dimensions of sleep and lifestyle behaviors.
+![Screenshot 2024-04-22 151943](https://github.com/srivastavaavijit/Sleep-Health-And-Lifecycle/assets/163127742/8b301e4b-3233-4de1-b756-9288f707978c)
+![Screenshot 2024-04-22 152101](https://github.com/srivastavaavijit/Sleep-Health-And-Lifecycle/assets/163127742/bbca13fb-202d-4103-b4eb-2214fd5f27d2)
